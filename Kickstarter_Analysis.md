@@ -16,13 +16,12 @@ afaf
 
 ### Analysis of Outcomes Based on Launch Date
 
-![OutcomesVsGoals](E:/Data_UM/Modules/1_Module_Week/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
+![OutcomesVsGoals](https://github.com/CaptCarmine/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png?raw=true)
 Based on what we were able to find on from the date given .
 
 ### Analysis of Outcomes Based on Goals
 
-
-![OutcomesVsGoals](E:/Data_UM/Modules/1_Module_Week/kickstarter-analysis/resources/Outcomes_vs_Goals.png)
+![OutcomesVsGoals](https://github.com/CaptCarmine/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png?raw=true)
 afafa
 
 ### Challenges and Difficulties Encountered
